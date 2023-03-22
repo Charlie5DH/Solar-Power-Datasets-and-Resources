@@ -14,3 +14,8 @@ This is a list of links, documents and datasets about solar power generation for
 
 - [Key Performance Indicators for Solar PV Plants.](https://trackso.in/knowledge-base/key-performance-indicators-for-solar-pv-plants/)
 - [Exploratory Data Analysis - Solar Power Generation](https://www.youtube.com/watch?v=thYLG4JmaFI)
+- [How to Calculate Solar Insolation (kWh/m2) for a Solar Power Plant using Solar Radiation (W/m2)](https://trackso.in/knowledge-base/how-to-calculate-solar-insolation-for-a-solar-power-plant-using-solar-radiation/)
+- [Solar panel power generation analysis](https://towardsdatascience.com/solar-panel-power-generation-analysis-7011cc078900)
+- [Data and Tools to Model Pv Systems | PyData Global 2021](https://www.youtube.com/watch?v=sweUakFg3I8)
+- [pvlib python 03: ModelChain and PVSystem](https://www.youtube.com/watch?v=gNgKSduzDLY)
+- [pvlib python](https://pvlib-python.readthedocs.io/en/stable/)
