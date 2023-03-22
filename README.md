@@ -13,4 +13,4 @@ This is a list of links, documents and datasets about solar power generation for
 ## Resources
 
 - [Key Performance Indicators for Solar PV Plants.](https://trackso.in/knowledge-base/key-performance-indicators-for-solar-pv-plants/)
-- [Exploratory Data Analysis - Solar Power Generation :video:](https://www.youtube.com/watch?v=thYLG4JmaFI)
+- [Exploratory Data Analysis - Solar Power Generation](https://www.youtube.com/watch?v=thYLG4JmaFI)
