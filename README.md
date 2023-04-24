@@ -2,7 +2,7 @@
 
 Here are some open-source datasets related to solar energy along with their links:
 
-- National Renewable Energy Laboratory (NREL) Solar Radiation Data: This dataset includes solar radiation and related climatic data for locations in the United States and its territories. The data is collected by NREL and is available for download at https://www.nrel.gov/grid/solar-resource/solar-radiation-data.html.
+- National Renewable Energy Laboratory (NREL) Solar Radiation Data: This dataset includes solar radiation and related climatic data for locations in the United States and its territories. The data is collected by NREL and is available for download at https://data.nrel.gov/search-page/Solar.
 
 - Open PV Project: This dataset provides information on the installed photovoltaic (PV) systems in the United States. It includes data on the size, location, and cost of the installations, as well as information on the type of PV technology used. The data can be downloaded from https://openpv.nrel.gov/.
 
