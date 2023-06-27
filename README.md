@@ -14,7 +14,7 @@ Here are some open-source datasets related to solar energy along with their link
 
 - Solar Energy Industries Association (SEIA) Solar Market Insight: This dataset provides information on the solar market in the United States, including data on installation trends, market share, and pricing. The data can be downloaded from https://www.seia.org/research-resources/solar-market-insight.
 
-- Sun Position and Solar Radiation: This dataset provides information on the position of the sun and the amount of solar radiation at any given location on earth. The data can be downloaded from https://www.nrel.gov/grid/solar-resource/sun-position.html.
+- National Renewable Energy Laboratory (NREL): Institue provides tools and datasets for irridation monitoring, solar and wind integration in real-time or historical data. The site can be found at [https://www.nrel.gov/grid/solar-resource/sun-position.html](https://www.nrel.gov/grid/all-data-tools.html).
 
 - PV-Live: This dataset provides real-time data on solar energy generation in the United Kingdom. It includes data on the total amount of solar energy generated, as well as data on individual solar installations. The data can be downloaded from https://www.solar.sheffield.ac.uk/pvlive/.
 
