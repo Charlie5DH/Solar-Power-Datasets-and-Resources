@@ -41,3 +41,4 @@ Here are some open-source datasets related to solar energy along with their link
 - [pvlib python 03: ModelChain and PVSystem](https://www.youtube.com/watch?v=gNgKSduzDLY)
 - [pvlib python](https://pvlib-python.readthedocs.io/en/stable/)
 - [Example of PV Modules String Outage Anomaly - Infrared Camera](https://www.youtube.com/watch?v=oIVdclhyFNU)
+- [SolarXlist](https://solarxlist.org/) — Global solar/PV & energy storage company directory
